@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Leetcode-solutions" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="TwoSum.java" />
+    <module name="Leetcode-solutions" />
+    <shortenClasspath name="MANIFEST" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/java/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
