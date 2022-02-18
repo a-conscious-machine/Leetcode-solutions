@@ -1,9 +1,11 @@
-package commons;
+package _000001_Two_Sum.utils;
 
-public class InputTest {
+public class InputArgs {
+
     public int[] nums;
     public int target;
-    public InputTest(int[] nums, int target) {
+
+    public InputArgs(int[] nums, int target) {
         this.nums = nums;
         this.target = target;
     }
